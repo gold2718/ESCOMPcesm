@@ -16,7 +16,7 @@
     ATM  = [CAM40, CAM50, CAM60]
     LND  = [CLM45, CLM50, SLND]
     ICE  = [CICE, DICE, SICE]
-    OCN  = [DOCN, ,AQUAP, SOCN]
+    OCN  = [DOCN, ,AQUAP, SOCN, NEMO]
     ROF  = [RTM, MOSART, SROF]
     GLC  = [CISM2, SGLC]
     WAV  = [WW3, DWAV, XWAV, SWAV]
@@ -62,6 +62,38 @@
   <compset>
     <alias>B1850G</alias>
     <lname>1850_CAM60_CLM50%BGC-CROP_CICE_POP2%ECO_MOSART_CISM2%GRIS-EVOLVE_WW3_BGC%BDRD</lname>
+  </compset>
+
+  <!-- NEMO coupled cases -->
+
+  <compset>
+    <alias>B1850NEMO</alias>
+    <lname>1850_CAM60_CLM45%BGC_CICE_NEMO_RTM_SGLC_SWAV</lname>
+  </compset>
+
+  <compset>
+    <alias>B2000NEMO</alias>
+    <lname>2000_CAM60_CLM50%SP_CICE_NEMO_RTM_SGLC_SWAV</lname>
+  </compset>
+
+  <compset>
+    <alias>B20TRNEMO</alias>
+    <lname>20TR_CAM60_CLM45%BGC_CICE_NEMO_RTM_SGLC_SWAV</lname>
+  </compset>
+
+  <compset>
+    <alias>BHISTNEMO</alias>
+    <lname>HIST_CAM60_CLM50%BGC-CROP_CICE_NEMO_MOSART_SGLC_SWAV</lname>
+  </compset>
+
+  <compset>
+    <alias>BWHISTNEMO</alias>
+    <lname>HIST_CAM60%WCTS_CLM50%BGC-CROP_CICE_NEMO_MOSART_SGLC_SWAV</lname>
+  </compset>
+
+  <compset>
+    <alias>BWmaHISTNEMO</alias>
+    <lname>HIST_CAM60%WCCM_CLM50%BGC-CROP_CICE_NEMO_MOSART_SGLC_SWAV</lname>
   </compset>
 
   <!-- Prognostic wave -->
