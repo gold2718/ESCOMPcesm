@@ -15,9 +15,6 @@ contact_links:
   - name: CICE6 issue
     url: https://github.com/CMCC-Foundation/CICE-CESM2/issues/new/choose
     about: Issue with CICE6 in CMCC-CM
-  - name: CISM issue
-    url: https://github.com/CMCC-Foundation/cism-wrapper/issues/new/choose
-    about: Issue with CISM (Community Ice Sheet Model) in CMCC-CM
   - name: MOSART issue
     url: https://github.com/CMCC-Foundation/MOSART/issues/new/choose
     about: Issue with MOSART in CESM (Model for Scale Adaptive River Transport)
