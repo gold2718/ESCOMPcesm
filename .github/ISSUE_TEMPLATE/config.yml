@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: ccs_config_cmcc issue
-    url: https://github.com/CMCC-Foundation/ccw_config_cmcc/issues/new
+    url: https://github.com/CMCC-Foundation/ccs_config_cmcc/issues/new
     about: Open new issue with configuration of CMCC supported grids, servers, and compilers.
   - name: CIME issue
     url: https://github.com/CMCC-Foundation/cime/issues/new/choose
