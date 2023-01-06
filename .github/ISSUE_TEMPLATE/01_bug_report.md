@@ -1,6 +1,6 @@
 ---
-name: Bug report, CESM-wide or unknown component
-about: Report a problem with CESM for an unknown component; in many cases, one of the links below is more appropriate
+name: Bug report, CMCC-CM-wide or unknown component
+about: Report a problem with CMCC-CM for an unknown component; in many cases, one of the links below is more appropriate
 
 ---
 
@@ -10,7 +10,7 @@ about: Report a problem with CESM for an unknown component; in many cases, one o
 
 ### General bug information
 
-**CESM version you are using:** [Output of `git describe`]
+**CMCC-CM version you are using:** [Output of `git describe`]
 
 **Machine you are using:** [Fill this in]
 
